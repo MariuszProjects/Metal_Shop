@@ -175,7 +175,7 @@ public class MetalShop_Mariusz_Czarny {
         String expectedNameLogo = "Sklep z metalami szlachetnymi";
         Assertions.assertEquals(expectedNameLogo, mainPageLogoName.getText());
     }
-// moj pierwszy commit
+// moj pierwszy commit, dodatkowy tekst
     @Test
     void loginPageShouldContainSearchBar() {
         //Zdefiniowanie zmiennej Moje Konto z Menu Głownego by id 'menu-item-125'
